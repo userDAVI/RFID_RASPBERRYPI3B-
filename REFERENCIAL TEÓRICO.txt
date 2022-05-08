@@ -1,0 +1,8 @@
+﻿REFERENCIAL TEÓRICO
+
+-https://www.youtube.com/watch?v=YurAHmeA_RE
+-https://pimylifeup.com/raspberry-pi-rfid-rc522/
+-https://www.arduinoecia.com.br/modulo-rfid-mfrc522-com-raspberry-pi-4/
+-https://raspberrypi.stackexchange.com/questions/130819/connecting-rc522-rfid-module-to-raspberry-pi-4
+
+
